@@ -3,12 +3,10 @@
 const isProd = process.env.NODE_ENV === "production";
 
 const nextConfig = {
-  basePath: isProd ? "/Growthhub" : "",
-  assetPrefix: isProd ? "/Growthhub/" : "",
+  basePath: isProd ? "/growth-hub" : "",
+  assetPrefix: isProd ? "/growth-hub/" : "",
   output: "export",
   images: {
     unoptimized: true,
   },
 };
-
-module.exports = nextConfig;
