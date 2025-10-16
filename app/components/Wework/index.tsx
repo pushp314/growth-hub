@@ -15,32 +15,32 @@ const postData: DataType[] = [
     {
         profession: 'English Communication Trainer',
         name: 'Priya Sharma',
-        imgSrc: '/images/wework/avatar.svg',
+        imgSrc: '/images/wework/avatar0.png', // done
     },
     {
         profession: 'Career Counselor',
         name: 'Rohit Verma',
-        imgSrc: '/images/wework/avatar3.svg',
+        imgSrc: '/images/wework/avatar.png', // done
     },
     {
         profession: 'Placement Coordinator',
         name: 'Sneha Patel',
-        imgSrc: '/images/wework/avatar4.svg',
+        imgSrc: '/images/wework/avatar7.png', // done
     },
     {
         profession: 'Corporate Trainer',
         name: 'Ankit Tiwari',
-        imgSrc: '/images/wework/avatar.svg',
+        imgSrc: '/images/wework/avatar2.png', //. done
     },
     {
         profession: 'Soft Skills Expert',
         name: 'Neha Gupta',
-        imgSrc: '/images/wework/avatar3.svg',
+        imgSrc: '/images/wework/avatar3.png', // done
     },
     {
         profession: 'Student Success Coach',
         name: 'Vikas Yadav',
-        imgSrc: '/images/wework/avatar4.svg',
+        imgSrc: '/images/wework/avatar4.png', // done
     },
 ];
 

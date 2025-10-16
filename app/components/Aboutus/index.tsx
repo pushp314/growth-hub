@@ -19,7 +19,7 @@ const Aboutdata: datatype[] = [
     {
         heading: "What We Do.",
         imgSrc: "/images/aboutus/imgTwo.svg",
-        paragraph: '🗣️ English Coaching (Online & Offline) \n 💼 Job Placement Training \n 🎯 Career Counseling',
+        paragraph: '🗣️ English Coaching (Online & Offline) \n 💼 Job Placement Services \n 🎯 Career Counseling \n "Corporate & Soft Skill Training"',
         link: 'View Services'
     },
     {

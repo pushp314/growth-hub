@@ -6,7 +6,6 @@ import Beliefs from './components/Beliefs/index';
 import Wework from './components/Wework/index';
 import Ourteam from './components/Ourteam/index';
 import Featured from './components/Featured/index';
-import Manage from './components/Manage/index';
 import FAQ from './components/FAQ/index';
 import Testimonials from './components/Testimonials/index';
 import Articles from './components/Articles/index';
@@ -25,7 +24,6 @@ export default function Home() {
       <Wework />
       <Ourteam />
       <Featured />
-      <Manage />
       <FAQ />
       <Testimonials />
       <Articles />
