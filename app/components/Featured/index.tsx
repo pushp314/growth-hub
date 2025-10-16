@@ -18,16 +18,22 @@ const serviceData: ServiceType[] = [
     imgSrc: '/images/featured/feat1.jpg',
   },
   {
-    heading: "Job Placement & Training Services",
+    heading: "Job Placement Services",
     description:
       "Get career-ready with our professional job training, skill enhancement programs, and guaranteed placement assistance tailored to your goals.",
     imgSrc: "/images/featured/feat2.jpg",
   },
   {
-    heading: "Career Counseling & Guidance",
+    heading: "Career Counseling",
     description:
       "Find the right path with personalized career counseling sessions designed to help you make confident career choices for your future.",
-    imgSrc: "/images/featured/feat1.jpg",
+    imgSrc: "/images/featured/feat4.webp",
+  },
+  {
+    heading: "Corporate & Soft Skill Training",
+    description:
+      "Equip yourself with essential corporate skills and soft skills training to excel in the workplace and enhance your professional interactions.",
+    imgSrc: "/images/featured/feat3.webp",
   },
 ];
 
